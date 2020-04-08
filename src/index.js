@@ -12,7 +12,7 @@ const store = createStore(reducer);
 
 const app = (
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/burger">
       <App/>
     </BrowserRouter>
   </Provider>
