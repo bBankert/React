@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React/src/static/css/main.a694435d.chunk.css",
-    "main.js": "/React/src/static/js/main.503e0970.chunk.js",
-    "main.js.map": "/React/src/static/js/main.503e0970.chunk.js.map",
-    "runtime-main.js": "/React/src/static/js/runtime-main.a9e1791b.js",
-    "runtime-main.js.map": "/React/src/static/js/runtime-main.a9e1791b.js.map",
-    "static/js/2.08aa4a1c.chunk.js": "/React/src/static/js/2.08aa4a1c.chunk.js",
-    "static/js/2.08aa4a1c.chunk.js.map": "/React/src/static/js/2.08aa4a1c.chunk.js.map",
-    "index.html": "/React/src/index.html",
-    "precache-manifest.ca4ca800746b6029aa1d1e9c5b89c41f.js": "/React/src/precache-manifest.ca4ca800746b6029aa1d1e9c5b89c41f.js",
-    "service-worker.js": "/React/src/service-worker.js",
-    "static/css/main.a694435d.chunk.css.map": "/React/src/static/css/main.a694435d.chunk.css.map",
-    "static/js/2.08aa4a1c.chunk.js.LICENSE.txt": "/React/src/static/js/2.08aa4a1c.chunk.js.LICENSE.txt",
-    "static/media/burger.png": "/React/src/static/media/burger.2a7f4eda.png"
+    "main.css": "/React/static/css/main.a694435d.chunk.css",
+    "main.js": "/React/static/js/main.b7312c73.chunk.js",
+    "main.js.map": "/React/static/js/main.b7312c73.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.1fb78140.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.1fb78140.js.map",
+    "static/js/2.08aa4a1c.chunk.js": "/React/static/js/2.08aa4a1c.chunk.js",
+    "static/js/2.08aa4a1c.chunk.js.map": "/React/static/js/2.08aa4a1c.chunk.js.map",
+    "index.html": "/React/index.html",
+    "precache-manifest.9eb16f43da960e0ceae4ebbc7f8f6995.js": "/React/precache-manifest.9eb16f43da960e0ceae4ebbc7f8f6995.js",
+    "service-worker.js": "/React/service-worker.js",
+    "static/css/main.a694435d.chunk.css.map": "/React/static/css/main.a694435d.chunk.css.map",
+    "static/js/2.08aa4a1c.chunk.js.LICENSE.txt": "/React/static/js/2.08aa4a1c.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/React/static/media/burger.2a7f4eda.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9e1791b.js",
+    "static/js/runtime-main.1fb78140.js",
     "static/js/2.08aa4a1c.chunk.js",
     "static/css/main.a694435d.chunk.css",
-    "static/js/main.503e0970.chunk.js"
+    "static/js/main.b7312c73.chunk.js"
   ]
 }
